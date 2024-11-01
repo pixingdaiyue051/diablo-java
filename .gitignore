@@ -1,0 +1,20 @@
+## dir ignore
+target/
+.classpath/
+.project/
+.settings/
+.idea/
+out/
+.vscode/
+java_pid*/
+## file ignore
+*.hprof
+*.iws
+*.iml
+*.ipr
+*.class
+*.out
+*.exe
+*.cmd
+*.bat
+*.msi
